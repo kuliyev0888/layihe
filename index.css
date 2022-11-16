@@ -1,0 +1,40 @@
+h1 {
+    font-weight: bolder;
+
+    margin-top: 106px;
+    margin-left: 560px;
+}
+
+.photo {
+    margin-left: 100px;
+    margin-bottom: -20px;
+}
+
+li {
+    list-style: none;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 20px;
+
+}
+
+.giris {
+    position: absolute;
+width: 58px;
+height: 33px;
+left: 992px;
+top: 9px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 13px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+}
